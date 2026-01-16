@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherTypeGetter for ModdableWeathers", "WeatherTypeGetter for ModdableWeathers.csproj", "{4134B4B2-8D45-DD11-8799-AEB3D353F7A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWeatherTypeGetter", "U:\IWeatherTypeGetter\IWeatherTypeGetter.csproj", "{FBCC73B7-15B2-FD60-08AA-19C4016FA499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4134B4B2-8D45-DD11-8799-AEB3D353F7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4134B4B2-8D45-DD11-8799-AEB3D353F7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4134B4B2-8D45-DD11-8799-AEB3D353F7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCC73B7-15B2-FD60-08AA-19C4016FA499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC73B7-15B2-FD60-08AA-19C4016FA499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC73B7-15B2-FD60-08AA-19C4016FA499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC73B7-15B2-FD60-08AA-19C4016FA499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

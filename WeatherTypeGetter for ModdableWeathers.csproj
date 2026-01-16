@@ -19,4 +19,8 @@
 		<Reference Include="C:\Program Files (x86)\Steam\steamapps\workshop\content\1062090\3430626620\version-1.0\*.dll" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="U:\IWeatherTypeGetter\IWeatherTypeGetter.csproj" />
+	</ItemGroup>
+
 </Project>
